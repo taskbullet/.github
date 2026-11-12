@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="taskbullet-logo.png" alt="TaskBullet" width="280">
+  <img src="https://raw.githubusercontent.com/taskbullet/.github/main/profile/taskbullet-logo.png" alt="TaskBullet" width="280">
 </p>
 
 Managed virtual assistant services for US businesses. Dedicated VA continuity, specialist routing from the same hour bucket, 90-day rollover, and a 60-day unused-hour guarantee. No long-term contracts. Since 2013.
